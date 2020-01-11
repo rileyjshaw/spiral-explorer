@@ -1,0 +1,15 @@
+.graph {
+	display: inline-block;
+	border: 1px solid white;
+	box-sizing: border-box;
+}
+
+.graph.vertical {
+	height: 100%;
+	width: 100px;
+}
+
+.graph.square {
+	height: 100vh;
+	width: 100vh;
+}
